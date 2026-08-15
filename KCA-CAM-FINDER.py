@@ -2,7 +2,7 @@
           # 𝙠𝙞𝙧𝙖 𝙢𝙖𝙙𝙖𝙧𝙘𝙝𝙤𝙙
 
 # ==========================
-# ObfuXtreme v4 Loader
+# ENCRYPT WITH MATRIXS OBS
 # ==========================
 
 import sys
