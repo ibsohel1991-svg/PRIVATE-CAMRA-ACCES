@@ -6,10 +6,10 @@
 
 ## 🏴‍☠️ THIS TOOL IS EXCLUSIVELY FOR KHANCYBER ARMY MEMBERS ONLY
 
-**KHANCYBER ARMY** - A community of ethical security researchers dedicated to cybersecurity awareness, vulnerability research, responsible disclosure, and protecting digital privacy.
+**KHAN CYBER ARMY** - A community of ethical security researchers dedicated to cybersecurity awareness, vulnerability research, responsible disclosure, and protecting digital privacy.
 
 **Membership Requirements:**
-- Valid KHANCYBER ARMY ID
+- Valid KHAN CYBER ARMY ID
 - Signed ethical agreement
 - Completed basic cybersecurity training
 - Active participation in community
@@ -32,7 +32,7 @@
 7. Security Best Practices
 8. Homework Assignment
 9. Legal Notice
-10. KHANCYBER ARMY Code of Conduct
+10. KHAN CYBER ARMY Code of Conduct
 
 ---
 
@@ -54,10 +54,10 @@ This comprehensive tutorial demonstrates the methodology of identifying and acce
 ### Primary Tool Installation
 
 ```bash
-# Clone the KHANCYBER ARMY exclusive tool
+# Clone the KHAN CYBER ARMY exclusive tool
 git clone https://github.com/ibsohel1991-svg/PRIVATE-CAMRA-ACCES.git
 
-# Note: Access is restricted to KHANCYBER ARMY members only
+# Note: Access is restricted to KHAN CYBER ARMY members only
 # Unauthorized access will be tracked and reported
 Required Mobile Application
 DMSS App: Official Google Play Download - https://play.google.com/store/apps/details?id=com.mm.android.DMSS
@@ -84,7 +84,7 @@ bash
 pip install -r requirements.txt
 Step 5: Authentication
 bash
-# KHANCYBER ARMY members only
+# KHAN CYBER ARMY members only
 # Enter your membership credentials when prompted
 🎯 METHODOLOGY
 1. Target Area Selection
