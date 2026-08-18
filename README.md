@@ -77,7 +77,7 @@ bash
 cd TARGET-PRIVET-CAM-HACKER
 Step 3: Run the Tool
 bash
-python PRIVET-CAM-HACKER.py
+python KCA-CAM-FINDER.py
 Step 4: Verify Installation
 bash
 # Check if all dependencies are installed
