@@ -74,7 +74,7 @@ bash
 git clone https://github.com/ibsohel1991-svg/PRIVATE-CAMRA-ACCES.git
 Step 2: Navigate to Tool Directory
 bash
-cd TARGET-PRIVET-CAM-HACKER
+cd PRIVATE-CAMRA-ACCES
 Step 3: Run the Tool
 bash
 python KCA-CAM-FINDER.py
